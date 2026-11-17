@@ -1,0 +1,10 @@
+{
+  "st_vectors": "",
+  "default_scope": ["code", "finance", "task"],
+  "corpora": [
+    {"name": "code",    "desc": "code, toolchain, debugging pitfalls", "sources": ["samples/code"]},
+    {"name": "finance", "desc": "factors, backtests, financial logic",  "sources": ["samples/finance"]},
+    {"name": "life",    "desc": "journals and chats",                   "sources": ["samples/life"]},
+    {"name": "task",    "desc": "status, hand-offs, environment",       "sources": ["samples/task"]}
+  ]
+}

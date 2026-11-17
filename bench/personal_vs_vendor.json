@@ -1,0 +1,6 @@
+{
+ "_note": "same corpus (469 blocks), same questions, same parameters (decay 30, card bonus 0.03)",
+ "batch1_cards_19": {"BM25": [12,17], "dense": [14,17], "dense+RRF": [14,18], "this_project": [17,18]},
+ "batch2_docs_20": {"BM25": [11,15], "dense": [2,7], "dense+RRF": [7,17], "this_project": [8,14]},
+ "_unit": "[hit@1, hit@3]"
+}
